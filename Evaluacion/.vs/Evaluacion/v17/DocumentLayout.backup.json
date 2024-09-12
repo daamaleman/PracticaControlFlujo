@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{531CB010-51E7-4E79-9CC1-2DC6081F4C7D}|Evaluacion\\Evaluacion.csproj|C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{531CB010-51E7-4E79-9CC1-2DC6081F4C7D}|Evaluacion\\Evaluacion.csproj|solutionrelative:Evaluacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Evaluacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531CB010-51E7-4E79-9CC1-2DC6081F4C7D}|Evaluacion\\Evaluacion.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\sistem\u00E1tico\\evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531CB010-51E7-4E79-9CC1-2DC6081F4C7D}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Evaluacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531CB010-51E7-4E79-9CC1-2DC6081F4C7D}|Evaluacion\\Evaluacion.csproj|C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\models\\GeneralNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531CB010-51E7-4E79-9CC1-2DC6081F4C7D}|Evaluacion\\Evaluacion.csproj|solutionrelative:Evaluacion\\models\\GeneralNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\models\\GeneralNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Evaluacion\\models\\GeneralNames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\Form1.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Sistem\u00E1tico\\Evaluacion\\Evaluacion\\Form1.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
